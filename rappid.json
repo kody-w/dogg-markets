@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-markets:61e7da27cbf6c340def386a9dadc6c11354c75c4702243597d5971074450c13c",
+  "kind": "node",
+  "name": "dogg-markets",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-markets",
+  "github": "https://github.com/kody-w/dogg-markets",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-25T20:18:38Z",
+  "notes": "Federated node of the global tick network; descends from the spine thread. Minted once per RAPP spec \u00a76.2 \u2014 uuid-entropy tail, never a name-hash."
+}
