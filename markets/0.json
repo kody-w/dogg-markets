@@ -1,0 +1,45 @@
+{
+  "spec": "rapp/1",
+  "kind": "markets.snapshot",
+  "stream_id": "markets:@kody-w/dogg-markets",
+  "seq": 0,
+  "utc": "2026-08-25T20:15:56.095Z",
+  "payload": {
+    "tick": 96,
+    "tick_frame": "51be0f08fb14ab888939fd2b8d877d8de83b97bdce3aab18252ca237a858027d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-25T20:15:56.095Z",
+    "markets": {
+      "btc_usd": {
+        "spot": "78868.365"
+      },
+      "eth_usd": {
+        "spot": "2457.895"
+      },
+      "fx_usd": {
+        "EUR": "0.8572",
+        "GBP": "0.7335",
+        "JPY": "159.1254",
+        "CNY": "6.7387",
+        "CHF": "0.8023",
+        "INR": "95.7989",
+        "BRL": "5.1506",
+        "MXN": "16.9490"
+      },
+      "crypto_market": {
+        "total_mcap_usd": "2667470119372",
+        "btc_dominance_pct": "59.2"
+      },
+      "btc_fees": {
+        "fastest_sat_vb": 3
+      }
+    },
+    "sources_failed": [],
+    "about": "A federated node of the global tick network: this repo's own markets outlook, one frame per observed tick, keyed to the spine's tick anchors so it joins every other node's data on the same clock."
+  },
+  "payload_hash": "3ceab7889732e23900a9544578178df94b2b2d8f8a242a464ae97426086f2ded",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7cca396f010ffbbdaac4914312ab3bcdf66ef67b1e1e50aa41ed0b603a5e9835"
+}
