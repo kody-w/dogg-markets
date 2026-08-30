@@ -1,8 +1,8 @@
 {
-  "count": 38,
+  "count": 39,
   "stream_id": "markets:@kody-w/dogg-markets",
-  "head_frame": "5506111643af0b5e63cf6bd0974722d191812142d4f1a7f65984b32539ca554f",
-  "updated": "2026-08-29T22:27:18.213Z",
+  "head_frame": "09a2e9092aae147e9220a541bd50364987b8783eda5c006788a7a9007441d916",
+  "updated": "2026-08-30T00:33:54.048Z",
   "epoch_size": 288,
   "sealed_epochs": 0
 }
