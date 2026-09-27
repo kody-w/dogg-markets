@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "markets.snapshot",
+  "stream_id": "markets:@kody-w/dogg-markets",
+  "seq": 223,
+  "utc": "2026-09-27T22:30:48.496Z",
+  "payload": {
+    "tick": 1541,
+    "tick_frame": "86cfade01105d9e651448365ee5b0cca84f1796b9fee25bcc821e34d39624cb3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T22:30:48.496Z",
+    "markets": {
+      "btc_usd": {
+        "spot": "84483.225"
+      },
+      "eth_usd": {
+        "spot": "2681.245"
+      },
+      "fx_usd": {
+        "EUR": "0.8775",
+        "GBP": "0.7551",
+        "JPY": "157.4536",
+        "CNY": "6.7290",
+        "CHF": "0.8286",
+        "INR": "95.8789",
+        "BRL": "5.1919",
+        "MXN": "17.6921"
+      },
+      "crypto_market": {
+        "total_mcap_usd": "2881514523443",
+        "btc_dominance_pct": "58.8"
+      },
+      "btc_fees": {
+        "fastest_sat_vb": 2
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b8286128447fd187013ce3c80df3c5e6477c16342a4462899963943fbb744094",
+  "prev": "bcf4725072c4d42dec5c96e7df6d194978ed892d5fc413f5d597e5c237e8f40d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "456611a657ba39befab23fbde585bc99e8f623083970d78e2526e7162122fef7"
+}
